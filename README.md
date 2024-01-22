@@ -1,7 +1,5 @@
 # Hi, 안녕 👋
-### 의진
-frontEnd 💻 
-<br><br>
+### frontEnd 💻 
 🤗😉🤗 <br>
 <a href="https://www.instagram.com/ee.j_x0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100071533163770&locale=ko_KR"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white"/></a>
