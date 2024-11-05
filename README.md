@@ -1,8 +1,6 @@
 # Hi, 안녕 👋
 ### frontEnd 💻 
 🤗😉🤗 <br>
-<a href="https://www.instagram.com/ee.j_x0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100071533163770&locale=ko_KR"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <br> <br>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
