@@ -1,4 +1,4 @@
-# Hi, 안녕 👋
+# Hi 👋
 ### frontEnd 💻 
 🤗😉🤗 <br>
 <br> <br>
