@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eejx0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **eejx0/eejx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
