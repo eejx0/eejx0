@@ -25,7 +25,5 @@
 ---
 
 ## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eejx0&layout=compact&theme=light&hide_border=true" style="border-radius: 10px;" />
-<img src="https://github-readme-stats.vercel.app/api?username=eejx0&show_icons=true&theme=light&hide_border=true" style="border-radius: 10px;"/>
-## 📫 How to reach me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.aghpt04@gmail.com)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eejx0&layout=compact&theme=light&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=eejx0&show_icons=true&theme=light&hide_border=true"/>
