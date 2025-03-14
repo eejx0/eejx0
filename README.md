@@ -1,5 +1,6 @@
-# 👋 Hi!
-### 🚀 Frontend Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=#FFACDD&height=250&section=header&text=Hi!&fontSize=70&fontColor=white&fontAlignY=40&desc=🚀%20Frontend%20Developer&descAlignY=60&descAlign=50" />
+</p>
 
 ---
 
@@ -13,7 +14,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
-
+<br>
 <h3 align="center">🚀 Tech & Tools</h3>
 
 <p align="center">
@@ -24,6 +25,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eejx0&layout=compact&theme=light&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=eejx0&show_icons=true&theme=light&hide_border=true"/>
+## 📊 GitHub 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eejx0&layout=compact&theme=light" />
+<img src="https://github-readme-stats.vercel.app/api?username=eejx0&show_icons=true&theme=light"/>
+
+## 
