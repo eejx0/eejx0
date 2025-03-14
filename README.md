@@ -1,23 +1,5 @@
-<style>
-  .wave {
-    animation: waveAnimation 4s ease-in-out infinite;
-  }
-
-  @keyframes waveAnimation {
-    0% {
-      transform: translateX(0);
-    }
-    50% {
-      transform: translateX(10px);
-    }
-    100% {
-      transform: translateX(0);
-    }
-  }
-</style>
-
 <p align="center">
-  <img class="wave" src="https://capsule-render.vercel.app/api?type=soft&color=FFACDD&height=250&section=header&text=Hi!&fontSize=70&textColor=white&fontAlignY=40&desc=🚀%20Frontend%20Developer&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFACDD&height=250&section=header&text=Hi!&fontSize=70&fontColor=white&fontAlignY=40&desc=🚀%20Frontend%20Developer&descAlignY=60&descAlign=50" />
 </p>
 
 ---
