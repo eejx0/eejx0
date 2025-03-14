@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFACDD&height=250&section=header&text=Hi!&fontSize=70&fontColor=white&fontAlignY=40&desc=🚀%20Frontend%20Developer&descAlignY=60&descAlign=50" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFACDD&height=300§ion=header&text=Hi!😊&desc=FrontEnd Developer%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 ---
 
