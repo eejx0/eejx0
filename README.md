@@ -25,6 +25,3 @@
 
 ## 📊 GitHub 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eejx0&layout=compact&theme=light" />
-<img src="https://github-readme-stats.vercel.app/api?username=eejx0&show_icons=true&theme=light"/>
-
-## 
