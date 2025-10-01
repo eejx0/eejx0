@@ -1,9 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F3608A&height=300&section=header&text=Hi!&desc=FrontEnd%20Developer%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40" />
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/eejx0?pet-id=1" width="1000" height="120"/>
 </a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F3608A&height=300&section=header&text=Hi!&desc=FrontEnd%20Developer%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40" />
-
 ---
 
 <h3 align="center">🛠 Tech Stack</h3>
